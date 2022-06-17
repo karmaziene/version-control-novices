@@ -1,3 +1,4 @@
+""" this is the script """
 import sys
 import temp_conversion
 import signal
